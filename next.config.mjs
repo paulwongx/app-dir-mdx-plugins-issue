@@ -26,5 +26,3 @@ export default withBundleAnalyzer(withMDX(nextConfig));
 // export default withMDX(nextConfig);
 // export default nextConfig;
 
-// const withMDX = require('@next/mdx')()
-// module.exports = withMDX(nextConfig)
